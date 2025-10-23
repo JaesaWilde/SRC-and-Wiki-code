@@ -56,17 +56,26 @@ _____
 
 ## Game mechanics: main board
 
-| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Game mechanic | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Description         | 100% Unrestricted · Any% · Extract% | 100% NMG |
-| :----                           | :----                                                                            | :----      |   :----    |
-| Pre-buffed Bulk fabricators     | Running on a patch with the Bulk Fabricators' original health                    | ✔️ Allowed | ❌ Banned |
-| Pre-buffed Infested Towers      | Running on a patch with the Infested Towers' original health                     | ✔️ Allowed | ❌ Banned |
-| Pre-nerfed Commando             | Using Commando's original demo force                                             | ✔️ Allowed | ❌ Banned |
-| Pre-nerfed Repel Invasion Fleet | Running Repel Invasion Fleet's with its original spawn rate                      | ✔️ Allowed | ❌ Banned |
-| Pre-nerfed Ultimatum            | Using Ultimatum's original demo force                                            | ✔️ Allowed | ❌ Banned |
-| Single Air Base                 | Running Sabotage Air Base with a single tower to destroy (outside of Megacities) | ✔️ Allowed | ❌ Banned |
-| Speedy Pelican                  | Running with Pelican's landing maximum speed                                     | ✔️ Allowed | ❌ Banned |
-
-
-
+| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; Game mechanic | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Description | 100% Unrestricted · Any% · Extract% | 100% NMG |
+| :----                               | :----                                                                          | :----      |   :----    |
+| **No Fortress/Mega Nest**           | Running on Automaton/Terminid Megacities without Fortress/Mega Nest            | ✔️ Allowed | ❌ Banned |
+| **Pre-buffed Bulk fabricators**     | Running with the Bulk Fabricators' original health                             | ✔️ Allowed | ❌ Banned |
+| **Pre-buffed Infested Towers**      | Running with the Infested Towers' original health                              | ✔️ Allowed | ❌ Banned |
+| **Pre-nerfed Commando**             | Using Commando's original demo force                                           | ✔️ Allowed | ❌ Banned |
+| **Pre-nerfed Repel Invasion Fleet** | Running Repel Invasion Fleet's with its original spawn rate                    | ✔️ Allowed | ❌ Banned |
+| **Pre-nerfed Ultimatum**            | Using Ultimatum's original demo force                                          | ✔️ Allowed | ❌ Banned |
+| **Single Air Base**                 | Running Sabotage Air Base with a single air base tower (outside of Megacities) | ✔️ Allowed | ❌ Banned |
+| **Speedy Pelican**                  | Running with Pelican's landing maximum speed                                   | ✔️ Allowed | ❌ Banned |
 
 ## Game mechanics: CE
+
+| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; Game mechanic | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Description | 100% Deathless Unrestricted · Extract% Deathless | 100% Deathless NMG |
+| :----                               | :----                                                                          | :----      |   :----    |
+| **No Fortress/Mega Nest**           | Running on Automaton/Terminid Megacities without Fortress/Mega Nest            | ✔️ Allowed | ❌ Banned |
+| **Pre-buffed Bulk fabricators**     | Running with the Bulk Fabricators' original health                             | ✔️ Allowed | ❌ Banned |
+| **Pre-buffed Infested Towers**      | Running with the Infested Towers' original health                              | ✔️ Allowed | ❌ Banned |
+| **Pre-nerfed Commando**             | Using Commando's original demo force                                           | ✔️ Allowed | ❌ Banned |
+| **Pre-nerfed Repel Invasion Fleet** | Running Repel Invasion Fleet's with its original spawn rate                    | ✔️ Allowed | ❌ Banned |
+| **Pre-nerfed Ultimatum**            | Using Ultimatum's original demo force                                          | ✔️ Allowed | ❌ Banned |
+| **Single Air Base**                 | Running Sabotage Air Base with a single air base tower (outside of Megacities) | ✔️ Allowed | ❌ Banned |
+| **Speedy Pelican**                  | Running with Pelican's landing maximum speed                                   | ✔️ Allowed | ❌ Banned |
