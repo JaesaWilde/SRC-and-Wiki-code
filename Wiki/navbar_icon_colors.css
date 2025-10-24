@@ -1,0 +1,86 @@
+/* Automatons */
+.v-icon .mdi-laser-pointer,
+.v-icon .mdi-vanish,
+.v-icon .mdi-eye,
+.v-icon .mdi-crane,
+.v-icon .mdi-eye-circle,
+.v-icon .mdi-ship-wheel,
+.v-icon .mdi-home-group,
+.v-icon .mdi-image-filter-hdr,
+.v-icon .mdi-knife,
+.v-icon .mdi-tank,
+.v-icon .mdi-orbit,
+.v-icon .mdi-dice-4 {
+    background: linear-gradient(to right, white, #ff2020);
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+/* Terminids */
+.v-icon .mdi-egg-off,
+.v-icon .mdi-bone,
+.v-icon .mdi-bug-outline,
+.v-icon .mdi-moon-waning-crescent,
+.v-icon .mdi-eiffel-tower,
+.v-icon .mdi-roman-numeral-10 {
+    background: linear-gradient(to right, white, #ffb300);
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+/* Illuminate */
+.v-icon .mdi-ufo,
+.v-icon .mdi-apple-keyboard-control,
+.v-icon .mdi-gas-station,
+.v-icon .mdi-airplane-landing,
+.v-icon .mdi-square-outline {
+    background: linear-gradient(to right, white, #6a39b9);
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+/* General loadout & mini games */
+.v-icon .mdi-script-text,
+.v-icon .mdi-cards,
+.v-icon .mdi-tshirt-crew,
+.v-icon .mdi-run-fast,
+.v-icon .mdi-arrow-right-bold-box,
+.v-icon .mdi-pipe-disconnected {
+    background: linear-gradient(to right, white, #ffef00);
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+/* Super Earth & Helldiver */
+.v-icon .mdi-power-plug,
+.v-icon .mdi-diving-scuba,
+.v-icon .mdi-airplane,
+.v-icon .mdi-needle,
+.v-icon .mdi-map-marker-question,
+.v-icon .mdi-ammunition {
+    background: linear-gradient(to right, white, #5184dc);
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+/* Speedrun strategies */
+.v-icon .mdi-creation,
+.v-icon .mdi-seed,
+.v-icon .mdi-arrow-all,
+.v-icon .mdi-refresh,
+.v-icon .mdi-binoculars {
+    background: linear-gradient(to right, white, #9acd32);
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+/* Any% */
+.v-icon .mdi-percent,
+.v-icon .mdi-axis-arrow,
+.v-icon .mdi-grave-stone,
+.v-icon .mdi-motion,
+.v-icon .mdi-airplane-takeoff {
+    background: linear-gradient(to right, white, SaddleBrown);
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
