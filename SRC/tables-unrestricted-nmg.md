@@ -22,6 +22,7 @@
 | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Glitch/exploit | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Description | 100% Deathless Unrestricted · Extract% Deathless | 100% Deathless NMG |
 | :----                                | :----                                                              | :----                   |   :----          |
 | **Infinite grenade glitch**          | Self-explanatory                                                   | ✔️ Allowed             | ❌ Banned        |
+| **Infinite Supply Pack fills**       | Self-explanatory                                                   | ✔️ Allowed             | ❌ Banned        |
 | **Invincible Shield Generator Pack** | Using the glitched Shield Generator Pack, immune to melee attacks  | ✔️ Allowed             | ❌ Banned        |
 | **Kill multiplier exploit**          | Using Seeker grenades, Portable Hellbombs, K-9 to multiply kills   | ✔️ Allowed             | ✔️ Allowed       |
 | **Lag abuse**                        | Spam switching from window mode to full screen mode                | ✔️ Allowed (teammates) | ❌ Banned (host) |
