@@ -5,7 +5,7 @@
 | **1.000.305** | <ul><li>Retrieve Essential Personnel mission</li><li>Infinite Grenade Glitch</li><li>Stratagem replacement exploit to equip both Patriot and Emancipator Exosuits</li><li>Last patch for the original event of Deactivate TCS and Deploy Dark Fluid</li></ul> | <ul><li>Meridia missions · NMG</li><li>Retrieve Essential Personnel · NMG & Unrestricted</li></ul> |
 | **1.001.100** | <ul><li>Invincible Shield Pack Glitch</li><li>Emergency Evacuation Skip</li></ul> | <ul><li>Solo Emergency Evacuation · Unrestricted</li></ul> | 
 | **1.001.104** | <ul><li>Emergency Evacuation Skip</li><li>Last patch where Meridia missions are playable</li></ul> | <ul><li>Emergency Evacuation · Unrestricted</li><li>Meridia mission · Unrestricted</li></ul> |
-| **1.002.203** | <ul><li>Pre-nerfed Ultimatum</li><li>Pre-buffed Bulk Fabricators</li><li>Pacifist skip</li><li>Old Galactic Map UI</li><li>Draw! emote</li></ul> | <ul><li>Un-Scouted Automaton operation · Unrestricted</li></ul> |
+| **1.002.203** | <ul><li>Pre-nerfed Ultimatum</li><li>Pre-buffed Bulk Fabricators</li><li>Pacifist skip</li><li>Old Galactic Map UI</li></ul> | <ul><li>Un-Scouted Automaton operation · Unrestricted</li></ul> |
 | **1.003.000** | <ul><li>Illuminate Megacities</li><li>Stratagem Duping</li><li>Stratagem duplication with Weapon Customization</li><li>First patch with Speedy Pelican</li><li>Pre-nerfed Repel Invasion Fleet</li><li>Flag of Super Earth planting to carry packages/shells glitch</li></ul> | <ul><li>Any Illuminate/Automaton mission/operation · Unrestricted</li><li>Any non-Megacity Terminid mission · Unrestricted</li></ul>
 
 
