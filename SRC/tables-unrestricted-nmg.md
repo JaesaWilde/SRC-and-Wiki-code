@@ -4,7 +4,7 @@
 | **Infinite Supply Pack fills**       | Self-explanatory                                                   | ✔️ Allowed             | ❌ Banned        |
 | **Invincible Shield Generator Pack** | Using the glitched Shield Generator Pack, immune to melee attacks  | ✔️ Allowed             | ❌ Banned        |
 | **Kill multiplier exploit**          | Using Seeker grenades, Portable Hellbombs, K-9 to multiply kills   | ✔️ Allowed             | ✔️ Allowed       |
-| **Lag abuse**                        | Spam switching from window mode to full screen mode                | ✔️ Allowed (teammates) | ❌ Banned        |
+| **Lag abuse**                        | Spam switching from window mode to full screen mode                | ✔️ Allowed (teammates only) | ❌ Banned        |
 | **One True Flag glitch**             | Using the One True Flag to carry 2 items                           | ✔️ Allowed             | ❌ Banned        |
 | **Stim cancel**                      | Partially cancelling stim animation                                | ✔️ Allowed             | ✔️ Allowed       |
 | **Stratagem duping**                 | Duplicating stratagems as you spawn them                           | ✔️ Allowed             | ❌ Banned        |
