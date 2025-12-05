@@ -20,7 +20,6 @@
 | **Pacifist skip**                    | Using the Shield Generator Pack to leave the mission area                      | ✔️ Allowed                  | ❌ Banned  |
 | &nbsp;                               | &nbsp;                                                                         | &nbsp;                       |   &nbsp;   |
 | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **GAME MECHANIC** | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **DESCRIPTION** | **100% UNRESTRICTED** | **100% NMG** |
-| **No Fortress/Mega Nest**            | Running on Automaton/Terminid Megacities without Fortress/Mega Nest            | ✔️ Allowed                  | ❌ Banned  |
 | **Pre-buffed Bulk fabricators**      | Running with the Bulk Fabricators' original health                             | ✔️ Allowed                  | ❌ Banned  |
 | **Pre-buffed Infested Towers**       | Running with the Infested Towers' original health                              | ✔️ Allowed                  | ❌ Banned  |
 | **Pre-nerfed Commando**              | Using Commando's original demo force                                           | ✔️ Allowed                  | ❌ Banned  |
