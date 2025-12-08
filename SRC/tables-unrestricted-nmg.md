@@ -25,6 +25,7 @@
 | &nbsp;                               | &nbsp;                                                                         | &nbsp;                       |   &nbsp;   |
 | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **GAME MECHANIC** | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **DESCRIPTION** | **100% UNRESTRICTED** | **100% NMG** |
 | **FRV reload**                       | Reloading inside the FRV without having to come out through the window         | ✔️ Allowed                  | ❌ Banned  |
+| **Pre 1.004.000 Factory Strider**    | Running on the Min and Max difficulties prior to patch 1.004.000               | ✔️ Allowed                  | ❌ Banned  |
 | **Pre-buffed Bulk fabricators**      | Running with the Bulk Fabricators' original health                             | ✔️ Allowed                  | ❌ Banned  |
 | **Pre-buffed Infested Towers**       | Running with the Infested Towers' original health                              | ✔️ Allowed                  | ❌ Banned  |
 | **Pre-nerfed Commando**              | Using Commando's original demo force                                           | ✔️ Allowed                  | ❌ Banned  |
@@ -58,6 +59,7 @@
 | &nbsp;                               | &nbsp;                                                                         | &nbsp;                       |   &nbsp;   |
 | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **GAME MECHANIC** | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **DESCRIPTION** | **EXTRACT% UNRESTRICTED** | **EXTRACT% NMG** |
 | **FRV reload**                       | Reloading inside the FRV without having to come out through the window         | ✔️ Allowed                  | ❌ Banned  |
+| **Pre 1.004.000 Factory Strider**    | Running on the Min and Max difficulties prior to patch 1.004.000               | ✔️ Allowed                  | ❌ Banned  |
 | **Pre-buffed Bulk fabricators**      | Running with the Bulk Fabricators' original health                             | ✔️ Allowed                  | ❌ Banned  |
 | **Pre-buffed Infested Towers**       | Running with the Infested Towers' original health                              | ✔️ Allowed                  | ❌ Banned  |
 | **Pre-nerfed Commando**              | Using Commando's original demo force                                           | ✔️ Allowed                  | ❌ Banned  |
@@ -91,6 +93,7 @@
 | &nbsp;                               | &nbsp;                                                                         | &nbsp;                       |   &nbsp;   |
 | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **GAME MECHANIC** | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **DESCRIPTION** | **ANY% UNRESTRICTED** | **ANY% NMG** |
 | **FRV reload**                       | Reloading inside the FRV without having to come out through the window         | ✔️ Allowed                  | ❌ Banned  |
+| **Pre 1.004.000 Factory Strider**    | Running on the Min and Max difficulties prior to patch 1.004.000               | ✔️ Allowed                  | ❌ Banned  |
 | **Pre-buffed Bulk fabricators**      | Running with the Bulk Fabricators' original health                             | ✔️ Allowed                  | ❌ Banned  |
 | **Pre-buffed Infested Towers**       | Running with the Infested Towers' original health                              | ✔️ Allowed                  | ❌ Banned  |
 | **Pre-nerfed Commando**              | Using Commando's original demo force                                           | ✔️ Allowed                  | ❌ Banned  |
