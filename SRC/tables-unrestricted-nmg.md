@@ -12,7 +12,7 @@
 | **One True Flag glitch**             | Using the One True Flag to carry 2 items                                       | ✔️ Allowed                  | ❌ Banned  |
 | **Stim cancel**                      | Partially cancelling stim animation                                            | ✔️ Allowed                  | ✔️ Allowed |
 | **Stratagem duping**                 | Duplicating stratagems as you spawn them                                       | ✔️ Allowed                  | ❌ Banned  |
-| **Teammates disconnecting**        	 | Speeding up extraction / depletion of reinforcements                           | ✔️ Allowed                  | ❌ Banned  |
+| **Teammates disconnecting**        	 | Speeding up extraction / depletion of reinforcements                           | ✔️ Allowed                  | ✔️ Allowed |
 | **Ultimatum swap**                	 | Improving the Ultimatum's range by swapping quickly                            | ✔️ Allowed                  | ✔️ Allowed |
 | **Warp Pack desync**                 | Warpping out of a mount to negate all friendly fire                            | ✔️ Allowed                  | ❌ Banned  |
 | **Weapon customization glitch**      | Using weapon customization to bring multiple of the same stratagem             | ✔️ Allowed                  | ❌ Banned  |
@@ -46,7 +46,7 @@
 | **One True Flag glitch**             | Using the One True Flag to carry 2 items                                       | ✔️ Allowed                  | ❌ Banned  |
 | **Stim cancel**                      | Partially cancelling stim animation                                            | ✔️ Allowed                  | ✔️ Allowed |
 | **Stratagem duping**                 | Duplicating stratagems as you spawn them                                       | ✔️ Allowed                  | ❌ Banned  |
-| **Teammates disconnecting**        	 | Speeding up extraction / depletion of reinforcements                           | ✔️ Allowed                  | ❌ Banned  |
+| **Teammates disconnecting**        	 | Speeding up extraction / depletion of reinforcements                           | ✔️ Allowed                  | ✔️ Allowed |
 | **Ultimatum swap**                	 | Improving the Ultimatum's range by swapping quickly                            | ✔️ Allowed                  | ✔️ Allowed |
 | **Warp Pack desync**                 | Warpping out of a mount to negate all friendly fire                            | ✔️ Allowed                  | ❌ Banned  |
 | **Weapon customization glitch**      | Using weapon customization to bring multiple of the same stratagem             | ✔️ Allowed                  | ❌ Banned  |
@@ -80,7 +80,7 @@
 | **One True Flag glitch**             | Using the One True Flag to carry 2 items                                       | ✔️ Allowed                  | ❌ Banned  |
 | **Stim cancel**                      | Partially cancelling stim animation                                            | ✔️ Allowed                  | ✔️ Allowed |
 | **Stratagem duping**                 | Duplicating stratagems as you spawn them                                       | ✔️ Allowed                  | ❌ Banned  |
-| **Teammates disconnecting**        	 | Speeding up extraction / depletion of reinforcements                           | ✔️ Allowed                  | ❌ Banned  |
+| **Teammates disconnecting**        	 | Speeding up extraction / depletion of reinforcements                           | ✔️ Allowed                  | ✔️ Allowed |
 | **Ultimatum swap**                	 | Improving the Ultimatum's range by swapping quickly                            | ✔️ Allowed                  | ✔️ Allowed |
 | **Warp Pack desync**                 | Warpping out of a mount to negate all friendly fire                            | ✔️ Allowed                  | ❌ Banned  |
 | **Weapon customization glitch**      | Using weapon customization to bring multiple of the same stratagem             | ✔️ Allowed                  | ❌ Banned  |
@@ -182,7 +182,7 @@
 | **One True Flag glitch**             | Using the One True Flag to carry 2 items                                       | ✔️ Allowed                  | ❌ Banned  |
 | **Stim cancel**                      | Partially cancelling stim animation                                            | ✔️ Allowed                  | ✔️ Allowed |
 | **Stratagem duping**                 | Duplicating stratagems as you spawn them                                       | ✔️ Allowed                  | ❌ Banned  |
-| **Teammates disconnecting**        	 | Speeding up extraction / depletion of reinforcements                           | ✔️ Allowed                  | ❌ Banned  |
+| **Teammates disconnecting**        	 | Speeding up extraction / depletion of reinforcements                           | ✔️ Allowed                  | ✔️ Allowed |
 | **Ultimatum swap**                	 | Improving the Ultimatum's range by swapping quickly                            | ✔️ Allowed                  | ✔️ Allowed |
 | **Warp Pack desync**                 | Warpping out of a mount to negate all friendly fire                            | ✔️ Allowed                  | ❌ Banned  |
 | **Weapon customization glitch**      | Using weapon customization to bring multiple of the same stratagem             | ✔️ Allowed                  | ❌ Banned  |
