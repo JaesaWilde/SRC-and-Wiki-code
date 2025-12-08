@@ -23,7 +23,7 @@
 | **Megacity skip**                    | Running on Terminid Megacities with broken sides generation                    | ✔️ Allowed                  | ❌ Banned  |
 | **Pacifist skip**                    | Using the Shield Generator Pack to leave the mission area                      | ✔️ Allowed                  | ❌ Banned  |
 | &nbsp;                               | &nbsp;                                                                         | &nbsp;                       |   &nbsp;   |
-| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **GAME MECHANIC** | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **DESCRIPTION** | **100% UNRESTRICTED** | **100% NMG** |
+| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &#8239; **GAME MECHANIC** | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **DESCRIPTION** | **100% UNRESTRICTED** | **100% NMG** |
 | **FRV reload**                       | Reloading inside the FRV without having to come out through the window         | ✔️ Allowed                  | ❌ Banned  |
 | **Pre 1.004.000 Factory Strider**    | Running on the Min and Max difficulties prior to patch 1.004.000               | ✔️ Allowed                  | ❌ Banned  |
 | **Pre-buffed Bulk fabricators**      | Running with the Bulk Fabricators' original health                             | ✔️ Allowed                  | ❌ Banned  |
@@ -57,7 +57,7 @@
 | **Megacity skip**                    | Running on Terminid Megacities with broken sides generation                    | ✔️ Allowed                  | ❌ Banned  |
 | **Pacifist skip**                    | Using the Shield Generator Pack to leave the mission area                      | ✔️ Allowed                  | ❌ Banned  |
 | &nbsp;                               | &nbsp;                                                                         | &nbsp;                       |   &nbsp;   |
-| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **GAME MECHANIC** | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **DESCRIPTION** | **EXTRACT% UNRESTRICTED** | **EXTRACT% NMG** |
+| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &#8239; **GAME MECHANIC** | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **DESCRIPTION** | **EXTRACT% UNRESTRICTED** | **EXTRACT% NMG** |
 | **FRV reload**                       | Reloading inside the FRV without having to come out through the window         | ✔️ Allowed                  | ❌ Banned  |
 | **Pre 1.004.000 Factory Strider**    | Running on the Min and Max difficulties prior to patch 1.004.000               | ✔️ Allowed                  | ❌ Banned  |
 | **Pre-buffed Bulk fabricators**      | Running with the Bulk Fabricators' original health                             | ✔️ Allowed                  | ❌ Banned  |
@@ -91,7 +91,7 @@
 | **Megacity skip**                    | Running on Terminid Megacities with broken sides generation                    | ✔️ Allowed                  | ❌ Banned  |
 | **Pacifist skip**                    | Using the Shield Generator Pack to leave the mission area                      | ✔️ Allowed                  | ❌ Banned  |
 | &nbsp;                               | &nbsp;                                                                         | &nbsp;                       |   &nbsp;   |
-| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **GAME MECHANIC** | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **DESCRIPTION** | **ANY% UNRESTRICTED** | **ANY% NMG** |
+| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &#8239; **GAME MECHANIC** | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **DESCRIPTION** | **ANY% UNRESTRICTED** | **ANY% NMG** |
 | **FRV reload**                       | Reloading inside the FRV without having to come out through the window         | ✔️ Allowed                  | ❌ Banned  |
 | **Pre 1.004.000 Factory Strider**    | Running on the Min and Max difficulties prior to patch 1.004.000               | ✔️ Allowed                  | ❌ Banned  |
 | **Pre-buffed Bulk fabricators**      | Running with the Bulk Fabricators' original health                             | ✔️ Allowed                  | ❌ Banned  |
@@ -127,7 +127,7 @@
 | **Megacity skip**                    | Running on Terminid Megacities with broken sides generation                    | ✔️ Allowed                  | ❌ Banned  |
 | **Pacifist skip**                    | Using the Shield Generator Pack to leave the mission area                      | ✔️ Allowed                  | ❌ Banned  |
 | &nbsp;                               | &nbsp;                                                                         | &nbsp;                       |   &nbsp;   |
-| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **GAME MECHANIC** | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **DESCRIPTION** | **100% DEATHLESS UNRESTRICTED** | **100% DEATHLESS NMG** |
+| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &#8239; **GAME MECHANIC** | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **DESCRIPTION** | **100% DEATHLESS UNRESTRICTED** | **100% DEATHLESS NMG** |
 | **FRV reload**                       | Reloading inside the FRV without having to come out through the window         | ✔️ Allowed                  | ❌ Banned  |
 | **Pre-buffed Bulk fabricators**      | Running with the Bulk Fabricators' original health                             | ✔️ Allowed                  | ❌ Banned  |
 | **Pre-buffed Infested Towers**       | Running with the Infested Towers' original health                              | ✔️ Allowed                  | ❌ Banned  |
@@ -160,7 +160,7 @@
 | **Megacity skip**                    | Running on Terminid Megacities with broken sides generation                    | ✔️ Allowed                  | ❌ Banned  |
 | **Pacifist skip**                    | Using the Shield Generator Pack to leave the mission area                      | ✔️ Allowed                  | ❌ Banned  |
 | &nbsp;                               | &nbsp;                                                                         | &nbsp;                       |   &nbsp;   |
-| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **GAME MECHANIC** | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **DESCRIPTION** | **EXTRACT% DEATHLESS UNRESTRICTED** | **EXTRACT% DEATHLESS NMG** |
+| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &#8239; **GAME MECHANIC** | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **DESCRIPTION** | **EXTRACT% DEATHLESS UNRESTRICTED** | **EXTRACT% DEATHLESS NMG** |
 | **FRV reload**                       | Reloading inside the FRV without having to come out through the window         | ✔️ Allowed                  | ❌ Banned  |
 | **Pre-buffed Bulk fabricators**      | Running with the Bulk Fabricators' original health                             | ✔️ Allowed                  | ❌ Banned  |
 | **Pre-buffed Infested Towers**       | Running with the Infested Towers' original health                              | ✔️ Allowed                  | ❌ Banned  |
@@ -193,7 +193,7 @@
 | **Megacity skip**                    | Running on Terminid Megacities with broken sides generation                    | ✔️ Allowed                  | ❌ Banned  |
 | **Pacifist skip**                    | Using the Shield Generator Pack to leave the mission area                      | ✔️ Allowed                  | ❌ Banned  |
 | &nbsp;                               | &nbsp;                                                                         | &nbsp;                       |   &nbsp;   |
-| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **GAME MECHANIC** | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **DESCRIPTION** | **100% UN-SCOUTED UNRESTRICTED** | **100% UN-SCOUTED NMG** |
+| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &#8239; **GAME MECHANIC** | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **DESCRIPTION** | **100% UN-SCOUTED UNRESTRICTED** | **100% UN-SCOUTED NMG** |
 | **FRV reload**                       | Reloading inside the FRV without having to come out through the window         | ✔️ Allowed                  | ❌ Banned  |
 | **Pre-buffed Bulk fabricators**      | Running with the Bulk Fabricators' original health                             | ✔️ Allowed                  | ❌ Banned  |
 | **Pre-buffed Infested Towers**       | Running with the Infested Towers' original health                              | ✔️ Allowed                  | ❌ Banned  |
