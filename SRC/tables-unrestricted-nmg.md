@@ -2,17 +2,19 @@
 
 ## 100%
 
-| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; GLITCH/EXPLOIT | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; DESCRIPTION | 100% UNRESTRICTED | 100% NMG |
+| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; GLITCH/EXPLOIT | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; DESCRIPTION | 100% UNRESTRICTED | 100% NMG |
 | :----                                | :----                                                                          | :----                        |   :----    |
-| **Infinite grenades**                | Self-explanatory                                                               | ✔️ Allowed                  | ❌ Banned  |
-| **Infinite Supply Pack fills**       | Self-explanatory                                                               | ✔️ Allowed                  | ❌ Banned  |
+| **Emote in Hellpod**                 | Emoting before exiting the Hellpod                                             | ✔️ Allowed                  | ✔️ Allowed |
+| **Infinite grenades**                | Throwing your last grenade while spam opening the stratagem menu               | ✔️ Allowed                  | ❌ Banned  |
+| **Infinite Supply Pack fills**       | Using the pack while dropping it so as not to consume the supplies             | ✔️ Allowed                  | ❌ Banned  |
 | **Invincible Shield Generator Pack** | Using the glitched Shield Generator Pack, immune to melee attacks              | ✔️ Allowed                  | ❌ Banned  |
 | **Kill multiplier exploit**          | Using Seeker grenades, Portable Hellbombs, K-9 to multiply kills               | ✔️ Allowed                  | ✔️ Allowed |
 | **Lag abuse**                        | Spam switching from window mode to full screen mode                            | ✔️ Teammates only           | ❌ Banned  |
 | **One True Flag glitch**             | Using the One True Flag to carry 2 items                                       | ✔️ Allowed                  | ❌ Banned  |
 | **Stim cancel**                      | Partially cancelling stim animation                                            | ✔️ Allowed                  | ✔️ Allowed |
 | **Stratagem duping**                 | Duplicating stratagems as you spawn them                                       | ✔️ Allowed                  | ❌ Banned  |
-| **Teammates disconnecting**        	 | Speeding up extraction / depletion of reinforcements                           | ✔️ Allowed                  | ✔️ Allowed |
+| **Teammates disconnecting**        	 | Speeding up extraction/depletion of reinforcements                             | ✔️ Allowed                  | ✔️ Allowed |
+| **Toss cancel**                      | Tossing platinum bars/batteries/shells further by emoting/opening the map      | ✔️ Allowed                  | ✔️ Allowed |
 | **Ultimatum swap**                	 | Improving the Ultimatum's range by swapping quickly                            | ✔️ Allowed                  | ✔️ Allowed |
 | **Warp Pack desync**                 | Warpping out of a mount to negate all friendly fire                            | ✔️ Allowed                  | ❌ Banned  |
 | **Weapon customization glitch**      | Using weapon customization to bring multiple of the same stratagem             | ✔️ Allowed                  | ❌ Banned  |
@@ -20,7 +22,7 @@
 | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **SKIP** | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **DESCRIPTION** | **100% UNRESTRICTED** | **100% NMG** |
 | **E-710 skip**                       | Making 2 shuttles appear in one turn                                           | ✔️ Allowed                  | ❌ Banned  |
 | **Emergency skip**                   | Running on a patch where all citizens evacuate instantly                       | ✔️ Allowed                  | ❌ Banned  |
-| **Megacity skip**                    | Running on Terminid Megacities with broken sides generation                    | ✔️ Allowed                  | ❌ Banned  |
+| **Megacity skip**                    | Running on Terminid Megacities with broken optional objectives generation      | ✔️ Allowed                  | ❌ Banned  |
 | **Pacifist skip**                    | Using the Shield Generator Pack to leave the mission area                      | ✔️ Allowed                  | ❌ Banned  |
 | &nbsp;                               | &nbsp;                                                                         | &nbsp;                       |   &nbsp;   |
 | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &#8239; **GAME MECHANIC** | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **DESCRIPTION** | **100% UNRESTRICTED** | **100% NMG** |
@@ -36,17 +38,19 @@
 
 ## Extract%
 
-| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; GLITCH/EXPLOIT | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; DESCRIPTION | EXTRACT% UNRESTRICTED | EXTRACT% NMG |
+| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; GLITCH/EXPLOIT | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; DESCRIPTION | EXTRACT% UNRESTRICTED | EXTRACT% NMG |
 | :----                                | :----                                                                          | :----                        |   :----    |
-| **Infinite grenades**                | Self-explanatory                                                               | ✔️ Allowed                  | ❌ Banned  |
-| **Infinite Supply Pack fills**       | Self-explanatory                                                               | ✔️ Allowed                  | ❌ Banned  |
+| **Emote in Hellpod**                 | Emoting before exiting the Hellpod                                             | ✔️ Allowed                  | ✔️ Allowed |
+| **Infinite grenades**                | Throwing your last grenade while spam opening the stratagem menu               | ✔️ Allowed                  | ❌ Banned  |
+| **Infinite Supply Pack fills**       | Using the pack while dropping it so as not to consume the supplies             | ✔️ Allowed                  | ❌ Banned  |
 | **Invincible Shield Generator Pack** | Using the glitched Shield Generator Pack, immune to melee attacks              | ✔️ Allowed                  | ❌ Banned  |
 | **Kill multiplier exploit**          | Using Seeker grenades, Portable Hellbombs, K-9 to multiply kills               | ✔️ Allowed                  | ✔️ Allowed |
 | **Lag abuse**                        | Spam switching from window mode to full screen mode                            | ✔️ Teammates only           | ❌ Banned  |
 | **One True Flag glitch**             | Using the One True Flag to carry 2 items                                       | ✔️ Allowed                  | ❌ Banned  |
 | **Stim cancel**                      | Partially cancelling stim animation                                            | ✔️ Allowed                  | ✔️ Allowed |
 | **Stratagem duping**                 | Duplicating stratagems as you spawn them                                       | ✔️ Allowed                  | ❌ Banned  |
-| **Teammates disconnecting**        	 | Speeding up extraction / depletion of reinforcements                           | ✔️ Allowed                  | ✔️ Allowed |
+| **Teammates disconnecting**        	 | Speeding up extraction/depletion of reinforcements                             | ✔️ Allowed                  | ✔️ Allowed |
+| **Toss cancel**                      | Tossing platinum bars/batteries/shells further by emoting/opening the map      | ✔️ Allowed                  | ✔️ Allowed |
 | **Ultimatum swap**                	 | Improving the Ultimatum's range by swapping quickly                            | ✔️ Allowed                  | ✔️ Allowed |
 | **Warp Pack desync**                 | Warpping out of a mount to negate all friendly fire                            | ✔️ Allowed                  | ❌ Banned  |
 | **Weapon customization glitch**      | Using weapon customization to bring multiple of the same stratagem             | ✔️ Allowed                  | ❌ Banned  |
@@ -54,7 +58,7 @@
 | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **SKIP** | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **DESCRIPTION** | **EXTRACT% UNRESTRICTED** | **EXTRACT% NMG** |
 | **E-710 skip**                       | Making 2 shuttles appear in one turn                                           | ✔️ Allowed                  | ❌ Banned  |
 | **Emergency skip**                   | Running on a patch where all citizens evacuate instantly                       | ✔️ Allowed                  | ❌ Banned  |
-| **Megacity skip**                    | Running on Terminid Megacities with broken sides generation                    | ✔️ Allowed                  | ❌ Banned  |
+| **Megacity skip**                    | Running on Terminid Megacities with broken optional objectives generation      | ✔️ Allowed                  | ❌ Banned  |
 | **Pacifist skip**                    | Using the Shield Generator Pack to leave the mission area                      | ✔️ Allowed                  | ❌ Banned  |
 | &nbsp;                               | &nbsp;                                                                         | &nbsp;                       |   &nbsp;   |
 | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &#8239; **GAME MECHANIC** | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **DESCRIPTION** | **EXTRACT% UNRESTRICTED** | **EXTRACT% NMG** |
@@ -70,17 +74,19 @@
 
 ## Any%
 
-| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; GLITCH/EXPLOIT | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; DESCRIPTION | ANY% UNRESTRICTED | ANY% NMG |
+| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; GLITCH/EXPLOIT | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; DESCRIPTION | ANY% UNRESTRICTED | ANY% NMG |
 | :----                                | :----                                                                          | :----                        |   :----    |
-| **Infinite grenades**                | Self-explanatory                                                               | ✔️ Allowed                  | ❌ Banned  |
-| **Infinite Supply Pack fills**       | Self-explanatory                                                               | ✔️ Allowed                  | ❌ Banned  |
+| **Emote in Hellpod**                 | Emoting before exiting the Hellpod                                             | ✔️ Allowed                  | ✔️ Allowed |
+| **Infinite grenades**                | Throwing your last grenade while spam opening the stratagem menu               | ✔️ Allowed                  | ❌ Banned  |
+| **Infinite Supply Pack fills**       | Using the pack while dropping it so as not to consume the supplies             | ✔️ Allowed                  | ❌ Banned  |
 | **Invincible Shield Generator Pack** | Using the glitched Shield Generator Pack, immune to melee attacks              | ✔️ Allowed                  | ❌ Banned  |
 | **Kill multiplier exploit**          | Using Seeker grenades, Portable Hellbombs, K-9 to multiply kills               | ✔️ Allowed                  | ✔️ Allowed |
 | **Lag abuse**                        | Spam switching from window mode to full screen mode                            | ✔️ Teammates only           | ❌ Banned  |
 | **One True Flag glitch**             | Using the One True Flag to carry 2 items                                       | ✔️ Allowed                  | ❌ Banned  |
 | **Stim cancel**                      | Partially cancelling stim animation                                            | ✔️ Allowed                  | ✔️ Allowed |
 | **Stratagem duping**                 | Duplicating stratagems as you spawn them                                       | ✔️ Allowed                  | ❌ Banned  |
-| **Teammates disconnecting**        	 | Speeding up extraction / depletion of reinforcements                           | ✔️ Allowed                  | ✔️ Allowed |
+| **Teammates disconnecting**        	 | Speeding up extraction/depletion of reinforcements                             | ✔️ Allowed                  | ✔️ Allowed |
+| **Toss cancel**                      | Tossing platinum bars/batteries/shells further by emoting/opening the map      | ✔️ Allowed                  | ✔️ Allowed |
 | **Ultimatum swap**                	 | Improving the Ultimatum's range by swapping quickly                            | ✔️ Allowed                  | ✔️ Allowed |
 | **Warp Pack desync**                 | Warpping out of a mount to negate all friendly fire                            | ✔️ Allowed                  | ❌ Banned  |
 | **Weapon customization glitch**      | Using weapon customization to bring multiple of the same stratagem             | ✔️ Allowed                  | ❌ Banned  |
@@ -88,7 +94,7 @@
 | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **SKIP** | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **DESCRIPTION** | **ANY% UNRESTRICTED** | **ANY% NMG** |
 | **E-710 skip**                       | Making 2 shuttles appear in one turn                                           | ✔️ Allowed                  | ❌ Banned  |
 | **Emergency skip**                   | Running on a patch where all citizens evacuate instantly                       | ✔️ Allowed                  | ❌ Banned  |
-| **Megacity skip**                    | Running on Terminid Megacities with broken sides generation                    | ✔️ Allowed                  | ❌ Banned  |
+| **Megacity skip**                    | Running on Terminid Megacities with broken optional objectives generation      | ✔️ Allowed                  | ❌ Banned  |
 | **Pacifist skip**                    | Using the Shield Generator Pack to leave the mission area                      | ✔️ Allowed                  | ❌ Banned  |
 | &nbsp;                               | &nbsp;                                                                         | &nbsp;                       |   &nbsp;   |
 | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &#8239; **GAME MECHANIC** | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **DESCRIPTION** | **ANY% UNRESTRICTED** | **ANY% NMG** |
@@ -106,17 +112,19 @@
 
 ## 100% Deathless
 
-| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; GLITCH/EXPLOIT | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; DESCRIPTION | 100% DEATHLESS UNRESTRICTED | 100% DEATHLESS NMG |
+| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; GLITCH/EXPLOIT | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; DESCRIPTION | 100% DEATHLESS UNRESTRICTED | 100% DEATHLESS NMG |
 | :----                                | :----                                                                          | :----                        |   :----    |
-| **Infinite grenades**                | Self-explanatory                                                               | ✔️ Allowed                  | ❌ Banned  |
-| **Infinite Supply Pack fills**       | Self-explanatory                                                               | ✔️ Allowed                  | ❌ Banned  |
+| **Emote in Hellpod**                 | Emoting before exiting the Hellpod                                             | ✔️ Allowed                  | ✔️ Allowed |
+| **Infinite grenades**                | Throwing your last grenade while spam opening the stratagem menu               | ✔️ Allowed                  | ❌ Banned  |
+| **Infinite Supply Pack fills**       | Using the pack while dropping it so as not to consume the supplies             | ✔️ Allowed                  | ❌ Banned  |
 | **Invincible Shield Generator Pack** | Using the glitched Shield Generator Pack, immune to melee attacks              | ✔️ Allowed                  | ❌ Banned  |
 | **Kill multiplier exploit**          | Using Seeker grenades, Portable Hellbombs, K-9 to multiply kills               | ✔️ Allowed                  | ✔️ Allowed |
 | **Lag abuse**                        | Spam switching from window mode to full screen mode                            | ✔️ Teammates only           | ❌ Banned  |
 | **One True Flag glitch**             | Using the One True Flag to carry 2 items                                       | ✔️ Allowed                  | ❌ Banned  |
 | **Stim cancel**                      | Partially cancelling stim animation                                            | ✔️ Allowed                  | ✔️ Allowed |
 | **Stratagem duping**                 | Duplicating stratagems as you spawn them                                       | ✔️ Allowed                  | ❌ Banned  |
-| **Teammates disconnecting**        	 | Speeding up extraction / depletion of reinforcements                           | ❌ Banned                   | ❌ Banned  |
+| **Teammates disconnecting**        	 | Speeding up extraction/depletion of reinforcements                             | ❌ Banned                   | ❌ Banned  |
+| **Toss cancel**                      | Tossing platinum bars/batteries/shells further by emoting/opening the map      | ✔️ Allowed                  | ✔️ Allowed |
 | **Ultimatum swap**                	 | Improving the Ultimatum's range by swapping quickly                            | ✔️ Allowed                  | ✔️ Allowed |
 | **Warp Pack desync**                 | Warpping out of a mount to negate all friendly fire                            | ✔️ Allowed                  | ❌ Banned  |
 | **Weapon customization glitch**      | Using weapon customization to bring multiple of the same stratagem             | ✔️ Allowed                  | ❌ Banned  |
@@ -124,7 +132,7 @@
 | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **SKIP** | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **DESCRIPTION** | **100% DEATHLESS UNRESTRICTED** | **100% DEATHLESS NMG** |
 | **E-710 skip**                       | Making 2 shuttles appear in one turn                                           | ✔️ Allowed                  | ❌ Banned  |
 | **Emergency skip**                   | Running on a patch where all citizens evacuate instantly                       | ✔️ Allowed                  | ❌ Banned  |
-| **Megacity skip**                    | Running on Terminid Megacities with broken sides generation                    | ✔️ Allowed                  | ❌ Banned  |
+| **Megacity skip**                    | Running on Terminid Megacities with broken optional objectives generation      | ✔️ Allowed                  | ❌ Banned  |
 | **Pacifist skip**                    | Using the Shield Generator Pack to leave the mission area                      | ✔️ Allowed                  | ❌ Banned  |
 | &nbsp;                               | &nbsp;                                                                         | &nbsp;                       |   &nbsp;   |
 | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &#8239; **GAME MECHANIC** | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **DESCRIPTION** | **100% DEATHLESS UNRESTRICTED** | **100% DEATHLESS NMG** |
@@ -139,17 +147,19 @@
 
 ## Extract% Deathless
 
-| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; GLITCH/EXPLOIT | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; DESCRIPTION | EXTRACT% DEATHLESS UNRESTRICTED | EXTRACT% DEATHLESS NMG |
+| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; GLITCH/EXPLOIT | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; DESCRIPTION | EXTRACT% DEATHLESS UNRESTRICTED | EXTRACT% DEATHLESS NMG |
 | :----                                | :----                                                                          | :----                        |   :----    |
-| **Infinite grenades**                | Self-explanatory                                                               | ✔️ Allowed                  | ❌ Banned  |
-| **Infinite Supply Pack fills**       | Self-explanatory                                                               | ✔️ Allowed                  | ❌ Banned  |
+| **Emote in Hellpod**                 | Emoting before exiting the Hellpod                                             | ✔️ Allowed                  | ✔️ Allowed |
+| **Infinite grenades**                | Throwing your last grenade while spam opening the stratagem menu               | ✔️ Allowed                  | ❌ Banned  |
+| **Infinite Supply Pack fills**       | Using the pack while dropping it so as not to consume the supplies             | ✔️ Allowed                  | ❌ Banned  |
 | **Invincible Shield Generator Pack** | Using the glitched Shield Generator Pack, immune to melee attacks              | ✔️ Allowed                  | ❌ Banned  |
 | **Kill multiplier exploit**          | Using Seeker grenades, Portable Hellbombs, K-9 to multiply kills               | ✔️ Allowed                  | ✔️ Allowed |
 | **Lag abuse**                        | Spam switching from window mode to full screen mode                            | ✔️ Teammates only           | ❌ Banned  |
 | **One True Flag glitch**             | Using the One True Flag to carry 2 items                                       | ✔️ Allowed                  | ❌ Banned  |
 | **Stim cancel**                      | Partially cancelling stim animation                                            | ✔️ Allowed                  | ✔️ Allowed |
 | **Stratagem duping**                 | Duplicating stratagems as you spawn them                                       | ✔️ Allowed                  | ❌ Banned  |
-| **Teammates disconnecting**        	 | Speeding up extraction / depletion of reinforcements                           | ❌ Banned                   | ❌ Banned  |
+| **Teammates disconnecting**        	 | Speeding up extraction/depletion of reinforcements                             | ❌ Banned                   | ❌ Banned  |
+| **Toss cancel**                      | Tossing platinum bars/batteries/shells further by emoting/opening the map      | ✔️ Allowed                  | ✔️ Allowed |
 | **Ultimatum swap**                	 | Improving the Ultimatum's range by swapping quickly                            | ✔️ Allowed                  | ✔️ Allowed |
 | **Warp Pack desync**                 | Warpping out of a mount to negate all friendly fire                            | ✔️ Allowed                  | ❌ Banned  |
 | **Weapon customization glitch**      | Using weapon customization to bring multiple of the same stratagem             | ✔️ Allowed                  | ❌ Banned  |
@@ -157,7 +167,7 @@
 | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **SKIP** | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **DESCRIPTION** | **EXTRACT% DEATHLESS UNRESTRICTED** | **EXTRACT% DEATHLESS NMG** |
 | **E-710 skip**                       | Making 2 shuttles appear in one turn                                           | ✔️ Allowed                  | ❌ Banned  |
 | **Emergency skip**                   | Running on a patch where all citizens evacuate instantly                       | ✔️ Allowed                  | ❌ Banned  |
-| **Megacity skip**                    | Running on Terminid Megacities with broken sides generation                    | ✔️ Allowed                  | ❌ Banned  |
+| **Megacity skip**                    | Running on Terminid Megacities with broken optional objectives generation      | ✔️ Allowed                  | ❌ Banned  |
 | **Pacifist skip**                    | Using the Shield Generator Pack to leave the mission area                      | ✔️ Allowed                  | ❌ Banned  |
 | &nbsp;                               | &nbsp;                                                                         | &nbsp;                       |   &nbsp;   |
 | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &#8239; **GAME MECHANIC** | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **DESCRIPTION** | **EXTRACT% DEATHLESS UNRESTRICTED** | **EXTRACT% DEATHLESS NMG** |
@@ -172,17 +182,19 @@
 
 ## 100% Un-Scouted
 
-| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; GLITCH/EXPLOIT | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; DESCRIPTION | 100% UN-SCOUTED UNRESTRICTED | 100% UN-SCOUTED NMG |
+| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; GLITCH/EXPLOIT | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; DESCRIPTION | 100% UN-SCOUTED UNRESTRICTED | 100% UN-SCOUTED NMG |
 | :----                                | :----                                                                          | :----                        |   :----    |
-| **Infinite grenades**                | Self-explanatory                                                               | ✔️ Allowed                  | ❌ Banned  |
-| **Infinite Supply Pack fills**       | Self-explanatory                                                               | ✔️ Allowed                  | ❌ Banned  |
+| **Emote in Hellpod**                 | Emoting before exiting the Hellpod                                             | ✔️ Allowed                  | ✔️ Allowed |
+| **Infinite grenades**                | Throwing your last grenade while spam opening the stratagem menu               | ✔️ Allowed                  | ❌ Banned  |
+| **Infinite Supply Pack fills**       | Using the pack while dropping it so as not to consume the supplies             | ✔️ Allowed                  | ❌ Banned  |
 | **Invincible Shield Generator Pack** | Using the glitched Shield Generator Pack, immune to melee attacks              | ✔️ Allowed                  | ❌ Banned  |
 | **Kill multiplier exploit**          | Using Seeker grenades, Portable Hellbombs, K-9 to multiply kills               | ✔️ Allowed                  | ✔️ Allowed |
 | **Lag abuse**                        | Spam switching from window mode to full screen mode                            | ✔️ Teammates only           | ❌ Banned  |
 | **One True Flag glitch**             | Using the One True Flag to carry 2 items                                       | ✔️ Allowed                  | ❌ Banned  |
 | **Stim cancel**                      | Partially cancelling stim animation                                            | ✔️ Allowed                  | ✔️ Allowed |
 | **Stratagem duping**                 | Duplicating stratagems as you spawn them                                       | ✔️ Allowed                  | ❌ Banned  |
-| **Teammates disconnecting**        	 | Speeding up extraction / depletion of reinforcements                           | ✔️ Allowed                  | ✔️ Allowed |
+| **Teammates disconnecting**        	 | Speeding up extraction/depletion of reinforcements                             | ✔️ Allowed                  | ✔️ Allowed |
+| **Toss cancel**                      | Tossing platinum bars/batteries/shells further by emoting/opening the map      | ✔️ Allowed                  | ✔️ Allowed |
 | **Ultimatum swap**                	 | Improving the Ultimatum's range by swapping quickly                            | ✔️ Allowed                  | ✔️ Allowed |
 | **Warp Pack desync**                 | Warpping out of a mount to negate all friendly fire                            | ✔️ Allowed                  | ❌ Banned  |
 | **Weapon customization glitch**      | Using weapon customization to bring multiple of the same stratagem             | ✔️ Allowed                  | ❌ Banned  |
@@ -190,7 +202,7 @@
 | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **SKIP** | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **DESCRIPTION** | **100% UN-SCOUTED UNRESTRICTED** | **100% UN-SCOUTED NMG** |
 | **E-710 skip**                       | Making 2 shuttles appear in one turn                                           | ✔️ Allowed                  | ❌ Banned  |
 | **Emergency skip**                   | Running on a patch where all citizens evacuate instantly                       | ✔️ Allowed                  | ❌ Banned  |
-| **Megacity skip**                    | Running on Terminid Megacities with broken sides generation                    | ✔️ Allowed                  | ❌ Banned  |
+| **Megacity skip**                    | Running on Terminid Megacities with broken optional objectives generation      | ✔️ Allowed                  | ❌ Banned  |
 | **Pacifist skip**                    | Using the Shield Generator Pack to leave the mission area                      | ✔️ Allowed                  | ❌ Banned  |
 | &nbsp;                               | &nbsp;                                                                         | &nbsp;                       |   &nbsp;   |
 | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &#8239; **GAME MECHANIC** | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **DESCRIPTION** | **100% UN-SCOUTED UNRESTRICTED** | **100% UN-SCOUTED NMG** |
