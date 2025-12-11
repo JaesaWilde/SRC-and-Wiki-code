@@ -1,4 +1,6 @@
-# README
+# README.md
+
+Backup of rules and guides for **Helldivers 2** on [speedrun.com](https://www.speedrun.com/Helldivers2) (SRC). This repository is also used to create tables because the native formatting on SRC does not work well with the content I need to display.
 
 ```
 root
