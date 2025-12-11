@@ -11,7 +11,7 @@ _____
 
 ![Activate Terminid Control System](/static/blob/1n7v4o5n.png) &nbsp; **Activate Terminid Control System** (after 1.001.002) &nbsp; — &nbsp; ![Trivial v2](/static/blob/7n6v6gmz.png) &nbsp; 1 | TRIVIAL &nbsp; · &nbsp; ![Super Helldive v2](/static/blob/kzwmp48n.png) &nbsp; 10 | SUPER HELLDIVE
 
-![Annex Untapped Mineral Sites](/static/blob/7e90jmye.png) &nbsp; **Annex Untapped Mineral Sites** &nbsp; — &nbsp; ![Trivial v2](/static/blob/7n6v6gmz.png) &nbsp; 1 | TRIVIAL &nbsp; · &nbsp; ![Super Helldive v2](/static/blob/kzwmp48n.png) &nbsp; 10 | SUPER HELLDIVE
+![Annex Untapped Mineral Sites](/static/blob/1n5jd9ve.png) &nbsp; **Annex Untapped Mineral Sites** &nbsp; — &nbsp; ![Trivial v2](/static/blob/7n6v6gmz.png) &nbsp; 1 | TRIVIAL &nbsp; · &nbsp; ![Super Helldive v2](/static/blob/kzwmp48n.png) &nbsp; 10 | SUPER HELLDIVE
 __________
 
 ![Blitz: Destroy Bio-Processors](/static/blob/ynl02dln.png) &nbsp; **Blitz: Destroy Bio-Processors** &nbsp; — &nbsp; ![Hard v2](/static/blob/1n7v4p9n.png) &nbsp; 5 | HARD &nbsp; · &nbsp; ![Super Helldive v2](/static/blob/kzwmp48n.png) &nbsp; 10 | SUPER HELLDIVE
